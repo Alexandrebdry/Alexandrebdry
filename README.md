@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandrebdry" alt="Alexandrebdry trophies" /></a> </p>
 
-- 🔭 I’m currently working on [PlayZ](https://github.com/Antoine-973/playz)
+- 🔭 I’m currently working on [PlayZ](https://github.com/Play-Z/playz)
 
 - 🌱 Currently I'm using those technologies : **Php** : Symfony, Laravel & Drupal | **JS/TS** : react, vue & angular  
 
