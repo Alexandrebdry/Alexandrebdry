@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hey! I'm Alexandre, full-stack freelance developpe 👨‍💻  BaujyWeb's CEO 🚀 </div>  
+## <div align="center">Hey! I'm Alexandre, full-stack freelance developper 👨‍💻  BaujyWeb's CEO 🚀 </div>  
   
 
 - 🔭 I’m currently working on [BaujyWeb](https://github.com/baujyweb) a web agency to help small esports & minecraft teams to develop themself.   
