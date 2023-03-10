@@ -6,11 +6,8 @@
 ## <div align="center">Hey! I'm Alexandre, full-stack freelance developper 👨‍💻  BaujyWeb's CEO 🚀 </div>  
   
 
-- 🔭 I’m currently working on [BaujyWeb](https://github.com/baujyweb) a web agency to help small esports & minecraft teams to develop themself.   
-  
-
-- 🌱 I’m currently working for [Visual Game](https://twitter.com/VisualGame_MC) and [French Familly Esport](https://twitter.com/FrenchFamEsport)  
-  
+- 🔭 I’m currently working on BaujyWeb a web agency to help small esports & minecraft teams to develop themself.   
+   
 
 - ❓ Ask me about anything about Baujy Web!  
   
