@@ -9,7 +9,7 @@
 </div>  
   
 
-- 🔭 I am currently working on [React open sources packages](https://www.npmjs.com/~alexandrebdry) 
+- 🔭 I am currently working on [React open sources packages](https://alexandrebdry.vercel.app/) 
 
 - 🎉 I work also at [Dassault Systèmes](https://www.3ds.com/) as full-stack developper (Drupal & Vue/Nuxt)
 
