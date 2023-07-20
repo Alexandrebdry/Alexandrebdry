@@ -11,8 +11,10 @@
 
 - 🔭 I am currently working on [React open sources packages](https://alexandrebdry.vercel.app/) 
 
-- 🎉 I work also at [Dassault Systèmes](https://www.3ds.com/) as full-stack developper (Drupal & Vue/Nuxt)
+- 🎉 I am now working at [Carbon IT](https://carbon-it.fr/)
 
+- 👨‍💻 I worked for [Dassault Systèmes](https://www.3ds.com/) as full-stack developper
+ 
 - ⚡ Working for freelance clients in my free time. If you have some needs feel free to contact me ! 
 
 - ❓ One question ? Ask me about anything !  
